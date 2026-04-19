@@ -5,12 +5,12 @@
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 
-🎮 Simple Stone–Paper–Scissors Game (Python)
+_**🎮 Simple Stone–Paper–Scissors Game (Python)**_
 
 
 A beginner-friendly Python project that implements the classic Stone–Paper–Scissors game using modular programming. The game runs in a loop, allows multiple rounds, and determines the winner based on user and computer choices.
 
-📌 Features
+_**📌 Features**_
 
 ✅ Menu-driven user interaction
 
@@ -25,9 +25,10 @@ A beginner-friendly Python project that implements the classic Stone–Paper–S
 ✅ Clear result display (Win / Lose / Draw)
 
 
-**🗂️ Project Structure**
+_**🗂️ Project Structure**_
 
-**📁 Simple-Game**
+_**📁 Simple-Game**_
+
 │── main.py        # Main game loop
 
 │── user.py        # Handles user input
@@ -38,7 +39,7 @@ A beginner-friendly Python project that implements the classic Stone–Paper–S
 
 │── util.py        # Stores game options
 
-**⚙️ How It Works**
+_**⚙️ How It Works**_
 
 User selects an option (Stone, Paper, or Scissor)
 
@@ -50,7 +51,7 @@ Result is displayed
 
 User can choose to play another round
 
-**🧠 Game Logic**
+_**🧠 Game Logic**_
 
 User Choice	Computer Choice	Result
 
@@ -78,7 +79,7 @@ cd simple-game
 
 python main.py
 
-🧩 Module Breakdown
+_**🧩 Module Breakdown**_
 
 **🔹 main.py**
 
@@ -136,7 +137,7 @@ You Lost
 
 Wanna play one more round ? (y/n)
 
-**🚀 Technologies Used**
+_**🚀 Technologies Used**_
 
 Python 3
 
@@ -145,7 +146,7 @@ Random Module
 Modular Programming
 
 
-**📚 Concepts Covered**
+_**📚 Concepts Covered**_
 
 Functions
 
@@ -159,7 +160,7 @@ Module importing
 
 Code structuring
 
-**💡 Future Improvements**
+_**💡 Future Improvements**_
 
 Add score tracking system
 
@@ -171,12 +172,12 @@ Improve UI with colors
 
 Add sound effects
 
-**🧑‍💻 Author**
+_**🧑‍💻 Author**_
 
 
 Neeraj Grover
 
-**⭐ Support**
+_**⭐ Support**_
 
 
 If you like this project, give it a ⭐ on GitHub and share it with others!
